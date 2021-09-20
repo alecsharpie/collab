@@ -1,3 +1,3 @@
 import streamlit as st
 
-"Our Project"
+"695 Project"
