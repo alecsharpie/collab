@@ -1,3 +1,3 @@
 import streamlit as st
 
-"695 Project"
+"695's Data Science Project"
